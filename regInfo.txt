@@ -1,0 +1,5 @@
+cURL Commands
+curl -H "Content-Type: application/json" -d '{"email":"kezike17@mit.edu","github":"/GitHub/CODE2040APIChallenge"}' http://challenge.code2040.org/api/register
+
+Result
+{"token":"ikzx5gqLtN"}
